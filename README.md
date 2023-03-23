@@ -2,15 +2,25 @@
 
 > Status: Completed 🤘🏽
 
-## "Peaky Blinders" TV show presentation website.
+## Project description
+
+https://thiagoterradev.github.io/peaky-blinders-project/
 
 This project aims to show a presentation page of the TV series called Peaky Blinders. The project was originally designed by the owners of Dev em Dobro, to be developed during a week of live online studies.
 
 The presentation page shows the title of the TV series (logo), followed by a paragraph (synopsis), as well as the background images that change according to the user's click on the round buttons located just below.
 
-There is a side menu, on the right side of the screen, where two icons with links to my social media are located. 
+There is a small menu where two icons with links to my social media are located. 
 
 Responsive web design approach was applied during the development of this website.
+
+## Layout mobile
+
+![peaky2](https://user-images.githubusercontent.com/125769752/227316970-0bee6ef3-4539-4583-901f-faa2e9e0129b.png)
+
+## Layout desktop
+
+![peaky1](https://user-images.githubusercontent.com/125769752/227315991-bb367eb7-2af3-426b-81fd-9bf617075175.png)
 
 ## Technologies I used:
 
@@ -18,6 +28,4 @@ Responsive web design approach was applied during the development of this websit
 * CSS
 * JavaScript
 
-### GitHub Deployment: https://thiagoterradev.github.io/peaky-blinders-project/
-
-Contact me: thiagoterradev@gmail.com
+### Contact me: thiagoterradev@gmail.com
