@@ -6,7 +6,7 @@
 
 https://thiagoterradev.github.io/peaky-blinders-project/
 
-This project aims to show a presentation page of the TV series called Peaky Blinders. The project was originally designed by the owners of Dev em Dobro, to be developed during a week of live online studies.
+This project aims to show a presentation page of the TV series called Peaky Blinders. The project was originally designed by the owners of Dev em Dobro, with the TV show "The Last of Us" theme, to be developed during a week of live online studies. However, I developed the project and decided to modify the main theme.
 
 The presentation page shows the title of the TV series (logo), followed by a paragraph (synopsis), as well as the background images that change according to the user's click on the buttons located just below.
 
